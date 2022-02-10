@@ -10,6 +10,9 @@ def numeros():
     entero_negativo = -4 #número entero negativo
     print(entero_negativo)
     print(type(entero_negativo))
+    #multiples variables enteras
+    numero_1, numero_2, numero_3 = 10, 8, 6
+    print(numero_1 + numero_2)
 
 def cadenas():
     texto = "Hola soy texto en python"
