@@ -1,8 +1,5 @@
 #Declaración y uso de variables con python
 
-from pandas import concat
-
-
 def numeros():
     entero = 4 #numero entero
     print(entero)
